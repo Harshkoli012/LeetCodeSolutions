@@ -14,4 +14,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
