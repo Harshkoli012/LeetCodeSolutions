@@ -25,7 +25,6 @@ class Solution {
             temp.next = new ListNode(carry % 10);
             temp = temp.next;
             carry = carry / 10;
-
         }
         if(carry==1){
             temp.next  = new ListNode(1);
