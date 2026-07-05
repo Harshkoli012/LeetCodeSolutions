@@ -35,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1528-shuffle-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/1528-shuffle-string) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
