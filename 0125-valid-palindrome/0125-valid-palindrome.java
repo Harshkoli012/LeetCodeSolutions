@@ -2,10 +2,11 @@ class Solution {
     public boolean isPalindrome(String s) {
         int p1=0;
         int p2=s.length()-1;
-        s=s.toLowerCase();
+         s = s.toLowerCase();
         while(p1<p2){
             char ch1 = s.charAt(p1);
             char ch2 = s.charAt(p2);
+           
             if(!(ch1>='a' && ch1<='z' || ch1>='0' && ch1<='9'))
             {
                 p1++;
@@ -19,9 +20,9 @@ class Solution {
             if(ch1 != ch2)
                 return false;
                 p1 ++;
-                p2 --; 
+                p2 --;  
         }
-         
         return true;
+  
     }
 }
