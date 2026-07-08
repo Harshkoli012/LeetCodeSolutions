@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
+| [0168-excel-sheet-column-title](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [1528-shuffle-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 ## Linked List
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0168-excel-sheet-column-title](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 ## Recursion
 |  |
 | ------- |
