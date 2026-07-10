@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0053-maximum-subarray](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
+| [0228-summary-ranges](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0228-summary-ranges) |
 | [1528-shuffle-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Hash Table
