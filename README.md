@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0033-search-in-rotated-sorted-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0175-combine-two-tables) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
