@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0228-summary-ranges](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1528-shuffle-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Hash Table
@@ -126,4 +127,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0643-maximum-average-subarray-i](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
