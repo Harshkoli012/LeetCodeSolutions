@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0607-sales-person) |
 | [0619-biggest-single-number](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0619-biggest-single-number) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Greedy
 |  |
 | ------- |
