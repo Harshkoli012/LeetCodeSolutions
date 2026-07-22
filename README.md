@@ -103,10 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0173-binary-search-tree-iterator) |
+| [0225-implement-stack-using-queues](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0258-add-digits) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
