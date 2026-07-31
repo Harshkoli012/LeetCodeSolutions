@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
+| [0088-merge-sorted-array](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0228-summary-ranges](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0228-summary-ranges) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
