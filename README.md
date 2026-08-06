@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0043-multiply-strings](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0043-multiply-strings) |
+| [0070-climbing-stairs](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0258-add-digits) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0075-sort-colors) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
