@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0258-add-digits](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0258-add-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
