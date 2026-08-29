@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0043-multiply-strings) |
+| [0050-powx-n](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0050-powx-n](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
 ## Divide and Conquer
 |  |
