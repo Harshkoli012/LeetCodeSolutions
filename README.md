@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1528-shuffle-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/1848-minimum-distance-to-the-target-element) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sliding Window
 |  |
 | ------- |
