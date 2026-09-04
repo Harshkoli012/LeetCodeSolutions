@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0023-merge-k-sorted-lists](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -222,4 +224,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
