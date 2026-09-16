@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0075-sort-colors) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0048-rotate-image) |
 ## Tree
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
