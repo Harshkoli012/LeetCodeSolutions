@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
 | [0024-swap-nodes-in-pairs](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0203-remove-linked-list-elements) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
