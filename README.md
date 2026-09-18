@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0036-valid-sudoku) |
+| [0242-valid-anagram](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Matrix
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1528-shuffle-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 ## Linked List
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
