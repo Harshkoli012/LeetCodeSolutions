@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0061-rotate-list) |
@@ -258,4 +260,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
