@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0012-integer-to-roman) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0038-count-and-say](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
