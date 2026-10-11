@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0168-excel-sheet-column-title) |
 | [0242-valid-anagram](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0242-valid-anagram) |
+| [0392-is-subsequence](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1528-shuffle-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/1528-shuffle-string) |
 ## Linked List
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0392-is-subsequence](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
