@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0088-merge-sorted-array) |
 | [0228-summary-ranges](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0349-intersection-of-two-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0643-maximum-average-subarray-i) |
 | [1528-shuffle-string](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/1528-shuffle-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0100-same-tree) |
+| [0322-coin-change](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0322-coin-change) |
 ## Binary Tree
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
@@ -296,4 +299,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0238-product-of-array-except-self) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Harshkoli012/LeetCodeSolutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
